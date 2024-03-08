@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m Enrique, a dedicated technical writer seeking opportunities to write and enhance project documentation. Be it internships, entry-level positions, or freelance projects, I’m eager to contribute my skills to real-world endeavors and gain valuable hands-on experience. Let’s create impactful documentation that stands out.
+
 <!--
 **theiiienrique/theiiienrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
