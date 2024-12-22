@@ -1,3 +1,3 @@
-### Hi there 👋
+### About
 
-I’m Enrique, a dedicated technical writer seeking opportunities to write and enhance product documentation. Be it internships, entry-level positions, or freelance projects, I’m eager to contribute my skills to real-world endeavors and gain valuable hands-on experience. Let’s create impactful documentation that stands out.
+Hello! My name is Enrique, and I'm a technical writer who is passionate about creating clear, user-friendly documentation.
